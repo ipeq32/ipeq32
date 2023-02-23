@@ -10,9 +10,8 @@ Below are the open source frameworks and tools I love:
 <!--https://skillicons.dev-->
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,react,html,css,vite,redux,webpack,materialui,bootstrap,electron,androidstudio,java,angular,spring,python,mysql,sqlite,redis,md,git,gitlab,docker,linux,nginx,vscode,apollo,arduino,atom,aws,azure,bootstrap,cs,cloudflare,codepen,discord,django,figma,firebase,graphql,go,kubernetes,linux,mongodb,nestjs,nextjs,postgres,postman,prisma,rabbitmq,redis,tailwind,xd)](#)
 
-<hr>
-
-<p align="center">
+## Contact me
+<p align="start">
   <a href="mailto:tunahan@rubiklabs.com?subject=[GitHub]%20%20%F0%9F%94%A5%20Hello%20Tuna&body=Hello%20Ogeday%2C%0A%0AI%20am%20contacting%20you%20via%20the%20link%20on%20github.%0A">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   </a>
@@ -20,8 +19,6 @@ Below are the open source frameworks and tools I love:
   <a href="https://linkedin.com/in/tunahan-ipek-3389bb20b"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ipeq32"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
-<hr>
 
 ## Stats
 
