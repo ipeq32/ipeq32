@@ -12,7 +12,7 @@ Below are the open source frameworks and tools I love:
 
 ## Contact me
 <p align="start">
-  <a href="mailto:tunahan@rubiklabs.com?subject=[GitHub]%20%20%F0%9F%94%A5%20Hello%20Tuna&body=Hello%20Ogeday%2C%0A%0AI%20am%20contacting%20you%20via%20the%20link%20on%20github.%0A">
+  <a href="mailto:tunahan@rubiklabs.com?subject=[GitHub]%20%20%F0%9F%94%A5%20Hello%20Tuna&body=Hello%20Tuna%2C%0A%0AI%20am%20contacting%20you%20via%20the%20link%20on%20github.%0A">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/tnhnipek"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
