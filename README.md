@@ -21,7 +21,5 @@ Below are the open source frameworks and tools I love:
 </a>
 
 ## Extra Pins
-<p align="center">
+
 [![nestjs-netgsm-client](https://github-readme-stats.vercel.app/api/pin/?username=ipeq32&repo=nestjs-netgsm-client&theme=jolly)](https://github.com/ipeq32/nestjs-netgsm-client)
-[![nestjs-netgsm-client](https://github-readme-stats.vercel.app/api/pin/?username=ipeq32&repo=nestjs-netgsm-client&theme=jolly)](https://github.com/ipeq32/nestjs-netgsm-client)
-</p>
