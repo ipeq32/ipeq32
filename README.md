@@ -8,7 +8,7 @@ I am a full stack TypeScript/JavaScript web developer, and I also build mobile a
 Below are the open source frameworks and tools I love:
 
 <!--https://skillicons.dev-->
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,react,html,css,vite,redux,materialui,electron,androidstudio,java,angular,spring,python,mysql,sqlite,redis,git,gitlab,docker,linux,nginx,arduino,aws,azure,bootstrap,cs,cloudflare,django,firebase,graphql,go,kubernetes,linux,mongodb,nestjs,nextjs,postgres,prisma,rabbitmq,redis,tailwind)](#)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,react,redux,tailwind,electron,androidstudio,java,angular,python,git,gitlab,docker,linux,nginx,arduino,aws,azure,cs,cloudflare,django,firebase,graphql,go,kubernetes,mongodb,nestjs,nextjs,postgres,prisma,rabbitmq,redis)](#)
 
 ## Contact me
 <p align="start">
