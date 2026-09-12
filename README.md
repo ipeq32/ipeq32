@@ -10,7 +10,7 @@
 </pre>
 <img src="./header/blink_cursor.svg" width="9" height="13" alt="" /> <sub>still compiling...</sub>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;pause=1100&amp;color=CC4631&amp;center=false&amp;vCenter=true&amp;width=400&amp;height=28&amp;lines=Full-stack+and+DevOps+architect;TypeScript+%2B+Kubernetes;NestJS+APIs+in+production" alt="typing" />
+<a href="#readme"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;pause=1100&amp;color=CC4631&amp;center=false&amp;vCenter=true&amp;width=400&amp;height=28&amp;lines=Full-stack+and+DevOps+architect;TypeScript+%2B+Kubernetes;NestJS+APIs+in+production" alt="typing" /></a>
 <br/><br/>
 I architect production platforms and own them in operation — web, API, mobile, data, and the Kubernetes they run on.
 <br/><br/>
@@ -29,7 +29,7 @@ I architect production platforms and own them in operation — web, API, mobile,
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1300&amp;color=CC4631&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=30&amp;lines=Senior+full-stack+and+DevOps+architect;Clean+architecture.+Owned+infrastructure.;Remote-ready+from+Denizli%2C+Turkey." alt="typing focus" width="100%" />
+  <a href="#readme"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1300&amp;color=CC4631&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=30&amp;lines=Senior+full-stack+and+DevOps+architect;Clean+architecture.+Owned+infrastructure.;Remote-ready+from+Denizli%2C+Turkey." alt="typing focus" width="100%" /></a>
 </p>
 
 ---
@@ -82,7 +82,7 @@ Stack: Next.js, NestJS, secure checkout, automated provisioning.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;pause=1400&amp;color=CC4631&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=28&amp;lines=Bare-metal+Kubernetes+and+DevOps;GitLab+CI+%2B+Harbor+registry;Realtime+courier%2C+QR+menu%2C+POS" alt="typing infra" width="100%" />
+  <a href="#readme"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;pause=1400&amp;color=CC4631&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=28&amp;lines=Bare-metal+Kubernetes+and+DevOps;GitLab+CI+%2B+Harbor+registry;Realtime+courier%2C+QR+menu%2C+POS" alt="typing infra" width="100%" /></a>
 </p>
 
 <a href="https://tunahanipek.com"><img src="./header/pinned_platform.png" width="100%" alt="Self-hosted Kubernetes platform" /></a>
