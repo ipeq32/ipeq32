@@ -10,7 +10,7 @@
 </pre>
 <img src="./header/blink_cursor.svg" width="9" height="13" alt="" /> <sub>still compiling...</sub>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1100&color=CC4631&center=false&vCenter=true&width=420&height=28&lines=Senior+full-stack+%2B+DevOps+architect;Shipping+tunahanipek.com.tr;HA+Kubernetes+on+bare+metal;Next.js+%2B+NestJS+production+systems" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;pause=1100&amp;color=CC4631&amp;center=false&amp;vCenter=true&amp;width=400&amp;height=28&amp;lines=Full-stack+and+DevOps+architect;TypeScript+%2B+Kubernetes;NestJS+APIs+in+production" alt="typing" />
 <br/><br/>
 Independent senior engineer. I design, ship, and operate production systems end to end: web, API, mobile, data, and the cluster they run on.
 <br/><br/>
@@ -20,7 +20,7 @@ Independent senior engineer. I design, ship, and operate production systems end 
 <a href="https://linkedin.com/in/tunahanipek"><img src="./header/linkedin.png" alt="LinkedIn" height="32" /></a>
 <a href="mailto:tnhnipek@gmail.com"><img src="./header/email.png" alt="Email" height="32" /></a>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,nestjs,graphql,postgres,prisma,redis,docker,kubernetes,gitlab,linux,flutter,py,go&perline=9" alt="Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,nestjs,graphql,postgres,prisma,redis,docker,kubernetes,gitlab,linux,flutter,py,go&amp;perline=9" alt="Stack" width="100%" />
 </td>
 <td width="48%" valign="top">
 <img src="./header/hero.png" width="100%" alt="Tunahan Ipek - point-cloud portrait" />
@@ -29,7 +29,7 @@ Independent senior engineer. I design, ship, and operate production systems end 
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1300&color=CC4631&center=true&vCenter=true&width=680&height=30&lines=Clean+architecture.+Owned+infrastructure.;Templates%2C+SaaS%2C+realtime+ops.;Remote-ready+from+Denizli%2C+Turkey." alt="typing focus" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1300&amp;color=CC4631&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=30&amp;lines=Senior+full-stack+and+DevOps+architect;Clean+architecture.+Owned+infrastructure.;Remote-ready+from+Denizli%2C+Turkey." alt="typing focus" width="100%" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ Independent senior engineer. I design, ship, and operate production systems end 
 
 <a href="https://tunahanipek.com.tr"><img src="./header/building_templates.png" width="100%" alt="tunahanipek.com.tr template marketplace" /></a>
 
-Multi-tenant marketplace for ready-made business sites. The buyer picks a template, pays, and gets a provisioned tenant (`isletmeniz.tunahanipek.com.tr`), an admin panel, and optional custom domain — without a custom build.
+Multi-tenant marketplace for ready-made business sites. The buyer picks a template, pays, and gets a provisioned tenant (`your-business.tunahanipek.com.tr`), an admin panel, and optional custom domain — without a custom build.
 
 Catalog today:
 
@@ -82,7 +82,7 @@ Stack: Next.js, NestJS, secure checkout, automated provisioning.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=CC4631&center=true&vCenter=true&width=680&height=28&lines=Bare-metal+Kubernetes.;GitLab+CI+%2B+Harbor+registry.;Realtime+courier%2C+QR+menu%2C+POS." alt="typing infra" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;pause=1400&amp;color=CC4631&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=28&amp;lines=Bare-metal+Kubernetes+and+DevOps;GitLab+CI+%2B+Harbor+registry;Realtime+courier%2C+QR+menu%2C+POS" alt="typing infra" width="100%" />
 </p>
 
 <a href="https://tunahanipek.com"><img src="./header/pinned_platform.png" width="100%" alt="Self-hosted Kubernetes platform" /></a>
@@ -131,13 +131,15 @@ Weekdays I am available roughly 08:00–16:00 Europe/Istanbul, remote.
 
 <img src="./header/live_stats.png" width="100%" alt="ipeq32 signals" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipeq32&amp;theme=github_dark" width="100%" alt="GitHub profile details" />
+
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ipeq32&show_icons=true&hide_border=true&title_color=CC4631&icon_color=CC4631&text_color=c3c8d1&bg_color=0b0f14&ring_color=CC4631" width="100%" alt="stats" />
+<td width="50%" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ipeq32&amp;theme=github_dark" width="100%" alt="GitHub stats" />
 </td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipeq32&layout=compact&hide_border=true&title_color=CC4631&text_color=c3c8d1&bg_color=0b0f14" width="100%" alt="languages" />
+<td width="50%" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ipeq32&amp;theme=github_dark" width="100%" alt="Top languages" />
 </td>
 </tr>
 </table>
