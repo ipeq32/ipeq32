@@ -23,7 +23,7 @@ Independent senior engineer. I design, ship, and operate production systems end 
 <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,nestjs,graphql,postgres,prisma,redis,docker,kubernetes,gitlab,linux,flutter,py,go&amp;perline=9" alt="Stack" width="100%" />
 </td>
 <td width="48%" valign="top">
-<img src="./header/hero.png" width="100%" alt="Tunahan Ipek - point-cloud portrait" />
+<img src="./header/hero.gif" width="100%" alt="Tunahan Ipek - animated point-cloud portrait" />
 </td>
 </tr>
 </table>
