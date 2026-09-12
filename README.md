@@ -20,7 +20,7 @@ Independent senior engineer. I design, ship, and operate production systems end 
 <a href="https://linkedin.com/in/tunahanipek"><img src="./header/linkedin.png" alt="LinkedIn" height="32" /></a>
 <a href="mailto:tnhnipek@gmail.com"><img src="./header/email.png" alt="Email" height="32" /></a>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,nestjs,graphql,postgres,prisma,redis,docker,kubernetes,gitlab,linux,flutter,py,go&amp;perline=9" alt="Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=ts,kubernetes,postgres,laravel,docker,react,redis,go,nestjs,linux,nextjs,graphql,gitlab,flutter,py,prisma,nodejs,js&amp;perline=9" alt="Stack" width="100%" />
 </td>
 <td width="48%" valign="top">
 <img src="./header/hero.gif" width="100%" alt="Tunahan Ipek - animated point-cloud portrait" />
