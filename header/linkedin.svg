@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .border { fill: none; stroke: #CC4631; stroke-width: 0.8; opacity: 0.75; }
+      .icon { fill: #CC4631; }
+      .label { font-family: "Courier New", monospace; font-size: 9px; fill: #e6edf3; letter-spacing: 1.5px; text-transform: uppercase; }
+    </style>
+  </defs>
+  <rect width="120" height="36" rx="2" class="bg"/>
+  <rect x="0.5" y="0.5" width="119" height="35" rx="2" class="border"/>
+  <rect x="10" y="11" width="4" height="14" rx="0.5" class="icon"/>
+  <circle cx="12" cy="9" r="2" class="icon"/>
+  <path d="M17 18 Q17 13 22 13 Q27 13 27 18 L27 25 L23 25 L23 19 Q23 16 20 16 Q18 16 18 19 L18 25 L17 25 Z" fill="#CC4631"/>
+  <text x="34" y="21" class="label">LinkedIn</text>
+</svg>

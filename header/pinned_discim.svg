@@ -1,0 +1,37 @@
+<svg viewBox="0 0 390 172" width="390" height="172" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgDc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#151c25"/>
+    </linearGradient>
+    <pattern id="gridDc" width="14" height="14" patternUnits="userSpaceOnUse">
+      <path d="M14 0 H0 V14" fill="none" stroke="#1b222c" stroke-width="0.6"/>
+    </pattern>
+    <filter id="glowDc" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="390" height="172" rx="12" fill="url(#bgDc)"/>
+  <rect width="390" height="172" rx="12" fill="url(#gridDc)" opacity="0.2"/>
+  <rect x="1" y="1" width="388" height="170" rx="12" fill="none" stroke="#2b303a" stroke-width="1"/>
+  <g transform="translate(30,36)" filter="url(#glowDc)">
+    <circle cx="0" cy="0" r="9" fill="none" stroke="#CC4631" stroke-width="1.2"/>
+    <path d="M-4 -2 Q0 6 4 -2" fill="none" stroke="#8f98a8" stroke-width="1.2"/>
+  </g>
+  <text x="60" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#eceff4">Di_cim</text>
+  <text x="60" y="47" font-family="Consolas, monospace" font-size="8" fill="#CC4631" letter-spacing="1.2">DENTAL CLINIC SAAS</text>
+  <text x="60" y="63" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c3c8d1">AI-assisted clinic ops: smart calendar, patient files, comms.</text>
+  <text x="60" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c3c8d1">End-to-end product ownership  web, data, and automations.</text>
+  <g>
+    <rect x="60" y="88" width="56" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="71" y="100" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Next.js</text>
+    <rect x="120" y="88" width="52" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="129" y="100" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Prisma</text>
+    <rect x="176" y="88" width="78" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="185" y="100" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">PostgreSQL</text>
+  </g>
+  <text x="60" y="144" font-family="Consolas, monospace" font-size="10" fill="#CC4631" letter-spacing="1.2">tunahanipek.com —</text>
+  <line x1="330" y1="30" x2="330" y2="142" stroke="#2b303a" stroke-width="1"/>
+  <text x="345" y="90" font-family="Consolas, monospace" font-size="8" fill="#4c566a" transform="rotate(90 345,90)" letter-spacing="2">PRODUCT_03</text>
+</svg>

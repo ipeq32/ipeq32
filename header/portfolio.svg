@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .border { fill: none; stroke: #CC4631; stroke-width: 0.8; opacity: 0.75; }
+      .icon { fill: none; stroke: #CC4631; stroke-width: 1.2; stroke-linecap: round; }
+      .label { font-family: "Courier New", monospace; font-size: 9px; fill: #e6edf3; letter-spacing: 1.5px; text-transform: uppercase; }
+    </style>
+  </defs>
+  <rect width="120" height="36" rx="2" class="bg"/>
+  <rect x="0.5" y="0.5" width="119" height="35" rx="2" class="border"/>
+  <circle cx="18" cy="18" r="7" class="icon"/>
+  <path d="M11 18 Q14 14 18 18 Q22 22 25 18" class="icon"/>
+  <path d="M18 11 L18 25" class="icon"/>
+  <path d="M11 18 L25 18" class="icon"/>
+  <text x="34" y="21" class="label">Portfolio</text>
+</svg>

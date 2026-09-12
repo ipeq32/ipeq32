@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="36" viewBox="0 0 132 36">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .border { fill: none; stroke: #CC4631; stroke-width: 0.8; opacity: 0.75; }
+      .icon { fill: none; stroke: #CC4631; stroke-width: 1.2; stroke-linecap: round; stroke-linejoin: round; }
+      .label { font-family: "Courier New", monospace; font-size: 9px; fill: #e6edf3; letter-spacing: 1.5px; text-transform: uppercase; }
+    </style>
+  </defs>
+  <rect width="132" height="36" rx="2" class="bg"/>
+  <rect x="0.5" y="0.5" width="131" height="35" rx="2" class="border"/>
+  <rect x="10" y="10" width="8" height="8" rx="1" class="icon"/>
+  <rect x="20" y="10" width="8" height="8" rx="1" class="icon"/>
+  <rect x="10" y="20" width="8" height="8" rx="1" class="icon"/>
+  <rect x="20" y="20" width="8" height="8" rx="1" class="icon"/>
+  <text x="36" y="21" class="label">Templates</text>
+</svg>

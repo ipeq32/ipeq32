@@ -1,0 +1,37 @@
+<svg viewBox="0 0 800 148" width="800" height="148" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgK8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#151c25"/>
+    </linearGradient>
+    <pattern id="gridK8" width="14" height="14" patternUnits="userSpaceOnUse">
+      <path d="M14 0 H0 V14" fill="none" stroke="#1b222c" stroke-width="0.6"/>
+    </pattern>
+    <filter id="glowK8" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="148" rx="12" fill="url(#bgK8)"/>
+  <rect width="800" height="148" rx="12" fill="url(#gridK8)" opacity="0.2"/>
+  <rect x="1" y="1" width="798" height="146" rx="12" fill="none" stroke="#2b303a" stroke-width="1"/>
+  <g transform="translate(30,36)" filter="url(#glowK8)">
+    <polygon points="0,-10 9,-5 9,5 0,10 -9,5 -9,-5" fill="none" stroke="#CC4631" stroke-width="1.2"/>
+  </g>
+  <text x="60" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#eceff4">Self-hosted platform</text>
+  <text x="60" y="47" font-family="Consolas, monospace" font-size="8" fill="#CC4631" letter-spacing="1.2">KUBERNETES · GITLAB · HARBOR · MINIO</text>
+  <text x="60" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c3c8d1">HA Kubernetes on bare metal. GitLab CI/CD, Harbor registry, MinIO object storage,</text>
+  <text x="60" y="86" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c3c8d1">Rancher/Lens, Uptime Kuma, Beszel, and self-hosted mail  owned end to end.</text>
+  <g>
+    <rect x="60" y="102" width="78" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="69" y="114" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Kubernetes</text>
+    <rect x="144" y="102" width="56" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="153" y="114" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">GitLab</text>
+    <rect x="206" y="102" width="52" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="215" y="114" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Harbor</text>
+    <rect x="264" y="102" width="48" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="273" y="114" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">MinIO</text>
+  </g>
+  <line x1="720" y1="24" x2="720" y2="124" stroke="#2b303a" stroke-width="1"/>
+  <text x="735" y="78" font-family="Consolas, monospace" font-size="8" fill="#4c566a" transform="rotate(90 735,78)" letter-spacing="2">INFRA_01</text>
+</svg>

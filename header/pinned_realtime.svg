@@ -1,0 +1,31 @@
+<svg viewBox="0 0 800 132" width="800" height="132" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgRt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#151c25"/>
+    </linearGradient>
+    <filter id="glowRt" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="132" rx="12" fill="url(#bgRt)"/>
+  <rect x="1" y="1" width="798" height="130" rx="12" fill="none" stroke="#2b303a" stroke-width="1"/>
+  <g transform="translate(30,32)" filter="url(#glowRt)">
+    <polyline points="-8,0 0,-8 8,0 0,8 -8,0" fill="none" stroke="#CC4631" stroke-width="1.2"/>
+  </g>
+  <text x="60" y="28" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#eceff4">Realtime ops products</text>
+  <text x="60" y="44" font-family="Consolas, monospace" font-size="8" fill="#CC4631" letter-spacing="1.2">COURIER · QR MENU · POS · PROPERTY MATCHING</text>
+  <text x="60" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c3c8d1">OKurye live routing and order pools · Antre Rafine QR menus · Possy POS / Sofra</text>
+  <text x="60" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c3c8d1">Alicinvar scored property matching · APEK multi-store ops console · Karbuz B2B template</text>
+  <g>
+    <rect x="60" y="98" width="78" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="69" y="110" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">WebSocket</text>
+    <rect x="144" y="98" width="52" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="153" y="110" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Flutter</text>
+    <rect x="202" y="98" width="56" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="211" y="110" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">BullMQ</text>
+    <rect x="264" y="98" width="48" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
+    <text x="273" y="110" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Redis</text>
+  </g>
+</svg>
