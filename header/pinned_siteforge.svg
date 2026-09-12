@@ -1,37 +1,14 @@
-<svg viewBox="0 0 390 172" width="390" height="172" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgSf" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f14"/>
-      <stop offset="100%" stop-color="#151c25"/>
-    </linearGradient>
-    <pattern id="gridSf" width="14" height="14" patternUnits="userSpaceOnUse">
-      <path d="M14 0 H0 V14" fill="none" stroke="#1b222c" stroke-width="0.6"/>
-    </pattern>
-    <filter id="glowSf" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.2" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="390" height="172" rx="12" fill="url(#bgSf)"/>
-  <rect width="390" height="172" rx="12" fill="url(#gridSf)" opacity="0.2"/>
-  <rect x="1" y="1" width="388" height="170" rx="12" fill="none" stroke="#2b303a" stroke-width="1"/>
-  <g transform="translate(30,36)" filter="url(#glowSf)">
-    <rect x="-10" y="-10" width="20" height="20" fill="none" stroke="#CC4631" stroke-width="1.2" rx="2"/>
-    <rect x="-4" y="-4" width="8" height="8" fill="none" stroke="#8f98a8" stroke-width="1" rx="1"/>
-  </g>
-  <text x="60" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#eceff4">SiteForge</text>
-  <text x="60" y="47" font-family="Consolas, monospace" font-size="8" fill="#CC4631" letter-spacing="1.2">TEMPLATE ù CAFE / BAKERY</text>
-  <text x="60" y="63" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c3c8d1">Industry storefront for menus, locations, and brand story.</text>
-  <text x="60" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c3c8d1">Live preview, panel-driven content, tenant subdomain on day one.</text>
-  <g>
-    <rect x="60" y="88" width="56" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
-    <text x="71" y="100" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Next.js</text>
-    <rect x="120" y="88" width="52" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
-    <text x="129" y="100" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">SaaS</text>
-    <rect x="176" y="88" width="70" height="18" rx="4" fill="#161d27" stroke="#2f3642" stroke-width="0.7"/>
-    <text x="185" y="100" font-family="Consolas, monospace" font-size="9" fill="#a8b1bf">Multi-tenant</text>
-  </g>
-  <text x="60" y="144" font-family="Consolas, monospace" font-size="10" fill="#CC4631" letter-spacing="1.2">tunahanipek.com.tr ù</text>
-  <line x1="330" y1="30" x2="330" y2="142" stroke="#2b303a" stroke-width="1"/>
-  <text x="345" y="90" font-family="Consolas, monospace" font-size="8" fill="#4c566a" transform="rotate(90 345,90)" letter-spacing="2">PRODUCT_01</text>
+<svg viewBox="0 0 520 168" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="168" rx="12" fill="#0b0f14"/>
+  <rect x="1" y="1" width="518" height="166" rx="12" fill="none" stroke="#2b303a"/>
+  <rect x="22" y="24" width="18" height="18" rx="2" fill="none" stroke="#CC4631"/>
+  <text x="50" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#eceff4">SiteForge</text>
+  <text x="50" y="46" font-family="Consolas, monospace" font-size="10" fill="#CC4631" letter-spacing="1.2">TEMPLATE  ?  CAFE / BAKERY</text>
+  <text x="22" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c3c8d1">Industry storefront for menus, locations, and brand story.</text>
+  <text x="22" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c3c8d1">Live preview. Panel-driven content. Tenant subdomain on day one.</text>
+  <rect x="22" y="112" width="64" height="20" rx="4" fill="#161d27" stroke="#2f3642"/>
+  <text x="34" y="126" font-family="Consolas, monospace" font-size="11" fill="#a8b1bf">Next.js</text>
+  <rect x="92" y="112" width="48" height="20" rx="4" fill="#161d27" stroke="#2f3642"/>
+  <text x="104" y="126" font-family="Consolas, monospace" font-size="11" fill="#a8b1bf">SaaS</text>
+  <text x="22" y="154" font-family="Consolas, monospace" font-size="11" fill="#CC4631">tunahanipek.com.tr</text>
 </svg>
