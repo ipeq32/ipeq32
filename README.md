@@ -12,7 +12,7 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;pause=1100&amp;color=CC4631&amp;center=false&amp;vCenter=true&amp;width=400&amp;height=28&amp;lines=Full-stack+and+DevOps+architect;TypeScript+%2B+Kubernetes;NestJS+APIs+in+production" alt="typing" />
 <br/><br/>
-Independent senior engineer. I design, ship, and operate production systems end to end: web, API, mobile, data, and the cluster they run on.
+I architect production platforms and own them in operation — web, API, mobile, data, and the Kubernetes they run on.
 <br/><br/>
 <a href="https://tunahanipek.com"><img src="./header/portfolio.png" alt="Portfolio" height="32" /></a>
 <a href="https://tunahanipek.com.tr"><img src="./header/templates.png" alt="Templates" height="32" /></a>
@@ -109,7 +109,7 @@ Weekdays I am available roughly 08:00–16:00 Europe/Istanbul, remote.
 
 **Recent roles**
 
-- **Independent — Senior software & DevOps** (Jan 2026 – now). Courier/QR realtime systems, self-hosted platform, Dişcim, template marketplace.
+- **Independent practice — platform & product architecture** (Jan 2026 – now). Courier/QR realtime systems, self-hosted platform, Dişcim, template marketplace.
 - **Software team lead** — Ayhanlar Holding / İşin Olacak (2025). Led frontend, backend, mobile, and Python/AI delivery on Next.js, React Native, NestJS, GraphQL.
 - **Freelance / contract** (2024–2025). NestJS and .NET APIs, Next.js sites, iyzico payment flows, legacy Node/PHP recovery.
 - **Earlier full-stack work** (2019–2024). Agency and product delivery across travel, telecom backoffice, Figma-to-production UI, and e-commerce.
